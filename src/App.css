@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.home img {
+  width: 700px;
+}
+
+.home p {
+  max-width: 700px;
+  text-align: left;
+}
+
+.link {
+  
+}
